@@ -1,0 +1,28 @@
+name: Creators
+favicon: null
+layout_spectrum: 0.8807693556882441
+typography_spectrum: 0.9790107468143106
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.718706184765324
+  lightness: 0.4702350846491754
+  saturation: 0.3256723457016051
+  rhythmicContrast: 0.9821725192014128
+purpose: []
